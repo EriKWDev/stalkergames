@@ -9,4 +9,4 @@ app.get('/', function(req, res) {
     console.log(file);
 });
 
-app.listen(80);
+app.listen(8080);
