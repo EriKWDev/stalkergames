@@ -12,4 +12,4 @@ app.get('/', function(req, res) {
     console.log(file);
 });
 
-app.listen(8080);
+app.listen(PORT);
